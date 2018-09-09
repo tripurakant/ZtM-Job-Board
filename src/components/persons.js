@@ -3057,3 +3057,20 @@ export const persons = [
 
 ];
 
+  {
+    id: 183,
+    name: "TRIPURA KANT",
+    img: "https://d1qb2nb5cznatu.cloudfront.net/users/8025810-large?1530205697",
+    links: {
+      website: "tripurakant.github.io",
+      linkedin: "linkedin.com/tripurakant",
+      github: "https://github.com/tripurakant/tripurakant.github.io"
+    },
+    jobTitle: "FRONT END DEVELOPER",
+    location: {
+      city: "BANGALORE",
+      state: "KA",
+      country: "INDIA"
+    }
+  },
+
